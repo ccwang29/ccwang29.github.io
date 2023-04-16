@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<style>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+    img[src*="#profile"] {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+        height: 150px;
+    }
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+</style>
 
+![Profile](/assets/images/profile.jpg#profile)
 
-[jekyll-organization]: https://github.com/jekyll
+Hello, I am Brian from Hong Kong. 
+
+I graduated from City University of Hong Kong with a Bachelor of Science Degree in Computer Science. 
+
+Currently, I am a junior programmer who develop and maintain J2EE applications.
+
+[Curriculum Vitae](/assets/docs/cv.pdf) (Last updated: 29 March 2023)
