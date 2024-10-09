@@ -1,3 +1,22 @@
+---
+layout: post
+title:  "Countdown to Excitement! 倒數期待！"
+date:   2024-10-10
+---
+
+<style>
+
+    img[src*="#002"] {
+        border: 1px solid #ddd;
+        padding: 5px;
+        width: 300px;
+        height: 400px;
+    }
+
+</style>
+
+![002](/assets/images/002.jpg#002)
+
 ### 🎉 Countdown to Excitement: Create Stunning Event Images with Leonardo AI for Instagram! 🚀
 
 **🌟 Introduction: Elevate Your Event Promotion**  
