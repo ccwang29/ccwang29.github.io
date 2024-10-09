@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Countdown to Excitement! 倒數期待！"
-date:   2024-10-10
+date:   2024-10-09
 ---
 
 <style>
